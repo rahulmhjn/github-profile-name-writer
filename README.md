@@ -1,4 +1,7 @@
 Github-profile-name-writer  Awesome
+[![GitHub issues](https://img.shields.io/github/issues/ankitsaini00/github-profile-name-writer)](https://github.com/ankitsaini00/github-profile-name-writer/issues)
+[![GitHub forks](https://img.shields.io/github/forks/ankitsaini00/github-profile-name-writer)](https://github.com/ankitsaini00/github-profile-name-writer/network)
+[![GitHub stars](https://img.shields.io/github/stars/ankitsaini00/github-profile-name-writer)](https://github.com/ankitsaini00/github-profile-name-writer/stargazers)
 
 ###Write you name using the github commits and make your profile awesome. :wink: ### ###Like This :arrow_heading_down:### Image of Ironman on github Profile
 
